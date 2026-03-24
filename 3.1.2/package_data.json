@@ -1,0 +1,53 @@
+{
+    "name": "001-semantic-release-tutorial",
+    "version": "3.1.2",
+    "keywords": [],
+    "author": {
+        "name": "Long Phan",
+        "email": "longphan0619@gmail.com"
+    },
+    "_id": "001-semantic-release-tutorial@3.1.2",
+    "maintainers": [
+        {
+            "name": "wizardbacon13",
+            "email": "longphan0619@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "a66c749554d7a2f9a2c0b2ed41096aa02aeba43c",
+        "tarball": "https://registry.npmjs.org/001-semantic-release-tutorial/-/001-semantic-release-tutorial-3.1.2.tgz",
+        "fileCount": 5,
+        "integrity": "sha512-zqV7+3Ty5/A3kKlUB8vEY4OCAyKwD0VGHp/1bwOaDDi6mbTnffcIL01Fv57cBdJMxj8Gijy/lQx55KN3I7KIBg==",
+        "signatures": [
+            {
+                "sig": "MEYCIQDhwqKm26WNpeIPeHu+mSHU41CD3tkzYBmnq6qDQOz56AIhALZn0xNPhViGbOQcLO4ntgo3mvtVM8qa82umafybuFIW",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 1765
+    },
+    "main": "index.js",
+    "License": "ISC",
+    "gitHead": "7a3f3daa3c445e041e70c5fe08d06c0f7681ea45",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "wizardbacon13",
+        "email": "longphan0619@gmail.com"
+    },
+    "_npmVersion": "10.9.0",
+    "description": "Test package for semantic-release tutorial",
+    "directories": {},
+    "_nodeVersion": "20.17.0",
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "semantic-release": "^24.1.2",
+        "@semantic-release/git": "^10.0.1",
+        "@semantic-release/changelog": "^6.0.3"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/001-semantic-release-tutorial_3.1.2_1728190022333_0.5542937319106893",
+        "host": "s3://npm-registry-packages"
+    }
+}

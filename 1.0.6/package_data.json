@@ -1,0 +1,37 @@
+{
+    "name": "001-semantic-release-tutorial",
+    "version": "1.0.6",
+    "_id": "001-semantic-release-tutorial@1.0.6",
+    "maintainers": [
+        {
+            "name": "wizardbacon13",
+            "email": "longphan0619@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "555ee70580469424a5d279206e6305d1a7fa98f1",
+        "tarball": "https://registry.npmjs.org/001-semantic-release-tutorial/-/001-semantic-release-tutorial-1.0.6.tgz",
+        "fileCount": 5,
+        "integrity": "sha512-78k7WtVnGwXc15ShQiIoJFyboCU82V8EfFMp86rdisFZA+Rvu4m5V63/iHMoRbLhZQbdKuPSkKjn1GYProcMpw==",
+        "signatures": [
+            {
+                "sig": "MEUCIQDeSWn9V0yAbwJ0vNvk/mTxkqeLjsAS8yiVqy7jvEDPcAIgXLa2QIG+/U29XULOaImVmoxk/5bOPu/h6MtXJSoHiT8=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 2087
+    },
+    "gitHead": "dfb7994bd2f1553d14d7df43371589ef49d7e4b7",
+    "_npmUser": {
+        "name": "wizardbacon13",
+        "email": "longphan0619@gmail.com"
+    },
+    "_npmVersion": "10.9.2",
+    "directories": {},
+    "_nodeVersion": "22.13.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/001-semantic-release-tutorial_1.0.6_1738117663063_0.6169439773136802",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}
